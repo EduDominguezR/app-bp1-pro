@@ -1,0 +1,6 @@
+{
+  "name": "Baseus Pulse",
+  "description": "App de control premium y ecualizador avanzado para auriculares Baseus Bass BP1 Pro.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
